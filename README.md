@@ -1,7 +1,8 @@
 # Emoji dumper 
 ##### Table of Contents  
-[Languages](#languages)  
-  [  Español](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+- [Languages](#languages)  
+    [Español](#es)
+    [English](#en)
+<a name="Español"/>
+## Español
+
